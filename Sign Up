@@ -9,4 +9,4 @@ fatal: pathspec 'omerzafar' did not match any files
 
 Administrator@DESKTOP-EN15BPJ MINGW64 ~ (main)
 $ git add omerzafar.html
-sasa
+
